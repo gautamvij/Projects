@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="SEA01" tilewidth="32" tileheight="32">
+  <image source="../images/SEA01.png" width="320" height="240"/>
+ </tileset>
+ <tileset firstgid="71" name="collision" tilewidth="32" tileheight="32">
+  <image source="../images/collision.png" width="64" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzt0SsWgDAQwMB9pXVAHRTH5/53JKfomogR0SkRsaCioUzuFRt29IQ+cGLgSugbD158CT37t//973//+9///ve//3P//75mN4E=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAC8GDAAAAQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAC8GDAAAAQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="32" height="24" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztzbENAAAIw7Ce1/8v4gsYcKTMbpJ6PT6fz+fz+Xz+rf/1AZWROoE=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="44" height="90" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="20" tilewidth="32" tileheight="32">
+  <image source="../images/20.png" width="544" height="416"/>
+ </tileset>
+ <tileset firstgid="222" name="23" tilewidth="32" tileheight="32">
+  <image source="../images/23.jpg" width="800" height="639"/>
+ </tileset>
+ <tileset firstgid="697" name="26" tilewidth="32" tileheight="32">
+  <image source="../images/26.png" width="736" height="416"/>
+ </tileset>
+ <tileset firstgid="996" name="4" tilewidth="32" tileheight="32">
+  <image source="../images/4.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1188" name="1" tilewidth="32" tileheight="32">
+  <image source="../images/1.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1444" name="2" tilewidth="32" tileheight="32">
+  <image source="../images/2.png" width="480" height="480"/>
+ </tileset>
+ <tileset firstgid="1669" name="2" tilewidth="32" tileheight="32">
+  <image source="../images/28.png" width="288" height="288"/>
+ </tileset>
+ <tileset firstgid="1750" name="18" tilewidth="32" tileheight="32">
+  <image source="../images/18.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="2006" name="17" tilewidth="32" tileheight="32">
+  <image source="../images/17.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="2262" name="32" tilewidth="32" tileheight="32">
+  <image source="../images/32.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="2518" name="33" tilewidth="32" tileheight="32">
+  <image source="../images/33.png" width="660" height="768"/>
+ </tileset>
+ <tileset firstgid="2998" name="collision" tilewidth="32" tileheight="32">
+  <image source="../images/collision.png" width="64" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="44" height="90">
+  <data encoding="base64" compression="zlib">
+   eJztmTePFDEYho3uboAjV+R0BSJWtICERAMSrASigIYjnQQdCO4EHdAADQhooCEcNFuRC7Yix4oc/wD8A2h4h/MnPiyPPTM7Zj3S90qPJnr8rNdBs9tSSi0IwFjQa9lvh5amatckwzcR3+h9q3YVX/EVXzvHA/qm3AcPwEN2LmZf4h1YpFnMtksi8eXeNn/eR2LzzcLnu9DyPcTsW7f27YSv6czPi29YyvhOEd/a+eb1qJNvkvO+tT1KrevpnG+iis2/W+C6tYO+tvZdmcEqsAeueyPxXQ82OGiAQ3A9HIFvnnv6wQm4nqyJL30PFwL7VvWZiGG2Xxdfcq6DL2/juvgSfTXzXR6Zb+Igvb6mw74uP5vv5pr5DlRQ9402fPPeT75DJf1MQvsSZd/fdoHdDn/f5yBfV1nbc2j+3TaqGAdRZrBAfSZ5fc3P2efx9bWVea2oL19riWFHnTT/lvX19e+sMenrv7w873u+/tCuLycd46PBGOY7DowHE8BEMAlMNuqkvle0P5SZB3jZqWAamA5mgJlgFpgN5oC5YB6Y76irqv7gGzMNDf99dClYpuxrQ1Z9tB5X2b5ZY6uf3bNC/X2npO1qvXX50np8IJ2jwCAYMvbzOJvX0+33LqV+dP07d9H99K7ZYNuNYJPHd6Bgf8hytvUDmy+Nuz916jbfDnaAncbzbHXQelyk/+adc3/C9ZfDN93uA/sz3GznaD0uM958a0JvN+arbvtalpY/Ao6CYwV8zwfwNa9x31PgtG7bM+AsOFfAt9mGb955jXwvgkvgMriiRtbdq+Ca4znmuZbDtar1jXyv6+Ob4Ba4De6Au0b5ew7fZmDfhPny/2YfgcfgCXiqyz0HL8BL8Mw4Tnn1H9qX+74Gb8BbNfL/7HvwAXwEn8Bn8AV8tRynfNO+zYBw36qe2QoI9w1ZT8y+EolEIpFIJBKJRCKRSCQSiUQikcSQ35Pybg0=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="44" height="90">
+  <data encoding="base64" compression="zlib">
+   eJzt2VlUVHUAx/H/zKAIuA2oPbgVbuVaWW+Fimi+ZLbwUCLg+lSugD6UYuVSCbhr5dZJBFS0Ti8mCGj10nEB9aFyXzsJWogKCFbfe+Z/6zreuWechTsP/985n3Mvdy73/vyfv/+5M6QIIT5pL8Sn+AyrkAct1Q4hanASp3Da4Tl+wyVErUs8lOsdhPi9g3gkdSbH9OzAGe51FudwHhdwEZdwGVdwFddkJzfWsr8O67EBG+Vrf9DvBmpRh5sWfe/Rq9GkW6vJsQSnEN2cnv1a7lWHm7iFP/EX6nEbDbiDu7JTIr5kfwu2Yhu2y9ecXNOFKLRDe3mP+3Rt8erbPkaI6BjfY2nMUK4zTF6rhXu14gH+xj/avaOFcMAJF6LQLtpz/kiL6/bkmr3QG33QV94jNkqIuCj/upnFOL5x9OiITuiMLugKN+KRgG7oLvumBHC/YPsax7cnPXqhN/qgL57EU0hEP/THANlXm7/6fNzD/l6UYh/2y+ubHQ+mr5bxzkePDafTCDyL5/A8RuIFvCj7Jhr6lrN/CBWoRJW8jtlxre937QLrOol5/nKMZ2tMEp1GYTTGIBljkYJxhvlr9v/HKvp8OBJg34my60SvvhPp9Bom4XW8gTfxFlIN8/dx56N+fk2AfY29jUmnUwYyMVX2m852BmYa5m+g43sxyL7emU2nOZiLebLfArZZyDbM30DHN9RZTKcl0Q8f+4ifP8YyP9bfSIxbbjcxlzb7+f7kK0tihcjFUnwYG3Q10yTKbVGQXbWso+N6bMDGEPRdxnvzcqzASvmMEOx82EmvQuxCEYpRgt0h6JtPxwKsxhrZV38/7sNzVF+LZz9jLnHeZVzBAXp9j4MoQzkOoSIEfTfRcTM+xxeyb6p8bTj3HuFn33rOu40GHKXXMRzHCVSjBifDNH9nyW0S9x7lZ18Hc90JFy7S6xIu4wqu4hquh6nvQhw09Czxo7ObnvFIwB163cU9NKIJzbgfpr4r8bOf46pnKj2nYTpmICaO9xDEoSM6oXNcWOr+t/5GYpZLWvRnuURfJ0dANkozMFMei+T34yIpGznymL7+TmG805GBzBjPHLUrFfK5b7nBCvmatv6+S7f3MBtzMBfzwth3vp/X1ufDJmyWx7T1931+/wMsxhLkYqmN46tHnw/FKJHHtPV3Fd3ykI8CrMaaNuib5sc9Dnj9rK2/W/i9rdiG7diBr9qgb1IA99DW3738Xin2YT++wbdt0DfLz3v04LwnDOtvOfuHUIFKVOFwBMxfPQPpMkj20dbfo+wfw3GcQDVqImA9M0sg30fZkely/FKtTwt5vL/T8Tdz5HaW5VmRk1y5XejjdV/frdsVfXy19dfsc6iv79btSq7cauuZ2edQX9+t2xV9fLX1zOxzqK/v1u1Krtzq65m25lWiCodD/D1esHnVsKbo69kxOh7HCVTLvudxAckOc3ZEX8/O0vEczuOC7NuIJjTjPlrQigciNH1P4hROe+1bRV/PaulYh5u4JfvG08nt8GwT0A3d0cPG8V0pt2ncv4WerchgP1N2GowhGIphGI4RNvb1/jyvd9WidRqLFIzDeLyCCTb2tfo8P9nhGfcpSHd4/i26hS4hCl2e7SLDtvAx/q4QSKw+z2fRKxs5Wj8sMvQtlN3yUWDYhruv1fNkHr3yUYDVWIO1Xn3TkYFMTMW0MPe1ep7cRa8iFKMEu7EHe1EqxzybfjltOB92W7xWSZ8qHMYR/IAf8ROa0IxV9Mtrw/lQZvHaL/T5Fb/hDDrzDNEFXeFGPL6m307Zc5fN41tPx9towB0Mot/TeAaDMQQH6Vem/e3Z9f+cDmesxjeWPnHoiE4YjTFIxlik2PDMZjW+/ejTHwMwEG/jHUxGGqbY0NdqfF9yetauJLajMB8LkIVs5Nj8TKyioqKioqKioqKioqKioqKioqKioqKiohIJ+RciUlau
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="44" height="90">
+  <data encoding="base64" compression="zlib">
+   eJztzjlOglEAAOHXUHAWTqI3gASklSBiCRGUEgMupQYQelTsXXtxuRFDSWMoSP73kvmS6ScESdIulfMhVOiAqvmsb/5X5++IGnRMTTqJ+PmUtw516YzOqRfx74C3IV3SFV3TTcS/I97GNKF7mtIs4t85bw/0SE+0oOeIf194e6U3eqcP+oz494u3JX3TD/3SX8S/krK3lwthP5f1xfaKvJYS+j3ktZbQb4vXNhUSee7zeZHI69otr3cJ/UqSJEmSJEmSJEmSJEmSJEnatAJ0hiLY
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="44" height="90" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztl1sOAiEMRf13/2txe34ZJ2Nb+qaYexJiMsLtBcrr8fjl9fwW7ntmifLRoPxefVN94bS4ula/Up8z/EoxvX5XulQ/IvNY5VcTzwPVd4veai1krxNLrls9a/rj9cutD61GNF6kvScnIvE8RNbvDr+e2Nf4VfU1ehV1q+ByWTrDsvIxkitSO8pvlPsYedpL4+zVpWJQsaJwZ4p1HjV1s/xqikYno46Vk/1me+nya22XfRfSxJ1K1zhkwe1nU9Huv1PGfco9SKs9xa/Vg2a+O/xa93HOf1f+Rt8V3evMksfcWTwhb+9M27e0nOR31/h64638TjvzNH4137pY3Rum+qW+X3+p/3bg9btzna48WdtWIY2hVaOT3X41e+ZqD7DE8vr7Z7/RmBltvRpRv91ndoW25c3l1a7QhF/4rdLM0j5tfzjlLZXR3jMXVfkg3QOipQrK72RO9Lvz/QQAAAAAAAAAAAAAAAAAVPIGob5CIg==
+  </data>
+ </layer>
+</map>

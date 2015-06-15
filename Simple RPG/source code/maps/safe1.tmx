@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="collision" tilewidth="32" tileheight="32">
+  <image source="../images/collision.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="mountain_landscape" tilewidth="32" tileheight="32">
+  <image source="../images/mountain_landscape.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="259" name="road traps" tilewidth="32" tileheight="32">
+  <image source="../images/road traps.png" width="384" height="512"/>
+ </tileset>
+ <tileset firstgid="451" name="gat" tilewidth="32" tileheight="32">
+  <image source="../images/gat.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="707" name="flat" tilewidth="32" tileheight="32">
+  <image source="../images/flat.png" width="99" height="97"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJwLZGBgCALiQBx0EAF5YmlFIFaigjn4aJgduGgjGttvCLUDF01r/+OjYW4IRJMjxRxy9Q02+wci/B2B2GmA7FdEsl9xgOxHzov0sBcZK6JhZHF62G+IhpHF6RUO9Ch/R/Mfbno0/EfDf6iE/zwgng/EC9DYuPTgUo/MJiX81wHxeiDegMbGpQeXemQ2KeG/D4j3A/EBNDYuPbjUI7OJDX9i45Sc9I+tvgMAeIb6qg==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYICAY0wMRANS1NLCTHrZv5wRgUei/TA3EKt2ONq/bIDtn00n+3EBbOE/CkbBKBgFo2AUjIKhDQBIABOs
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzFlk1OwzAQhZ0chwNwkF6IcgLoNhK0bKmUdk2rwg7YwJICElv+DtACi/ZFZYQZZuxxk4gnfVLiv2c7nnGc22g3c2aF2p4qz1Ibv57G3AmMTXXcv8T7KGH+l+AKXAv+FtX1vwNzcN+Qf+U9ZmW3DF/P4AW8NuQ/wfs0of8CLMFHQ/6x/S+U8tj528ud64L9/HddnfXTXHhsSOs/gO8h6OXhtqH1a2vnOsr/0gcDcCLUxfyHBk9Lm9Kwr2fZ5hu0of/2t+SVttdP35fyDCfFvzqPUv7VRL6T7CfONDT5sVadOSn/WhU6s1odL5fybx09gMdAPfeX8m8dvYH3xD6W2LeO8Qm+XHwfuLT/k23noe2D71O4+NqlO4Ln8epOv2FltA80fiH0GyrPx6APBpG5kVbgydiW+0vxX4IRGG8xZoq3Fv8zcA4uWvQmSfHf+Ua6r/0y7czyfkWg3I//Nc1NhH0=
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="32" height="24" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAC8GDAAAAQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 5" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAC8GDAAAAQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 6" width="32" height="24" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztltsKACAIQ6X//+joNbrMtdCggS9hnSFamfEqgjiV9wxPPuIzEx+ps6LmKz6b8/m5+H0ee/ao/xAPSj6y9gKfme1Z/XcemD692X8RfNV7dnP+EX1+br7iH4X2JXsfzTwz+xR8Vln5EdFUAdWpAW0=
+  </data>
+ </layer>
+</map>

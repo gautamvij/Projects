@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="30" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="TUTO_chap8_mer" tilewidth="32" tileheight="32">
+  <image source="../images/TUTO_chap8_mer.png" width="256" height="224"/>
+ </tileset>
+ <tileset firstgid="57" name="tilee (2)" tilewidth="32" tileheight="32">
+  <image source="../images/tilee (2).png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="313" name="10" tilewidth="32" tileheight="32">
+  <image source="../images/10.png" width="384" height="256"/>
+ </tileset>
+ <tileset firstgid="409" name="20" tilewidth="32" tileheight="32">
+  <image source="../images/20.png" width="544" height="416"/>
+ </tileset>
+ <tileset firstgid="630" name="19" tilewidth="32" tileheight="32">
+  <image source="../images/19.png" width="640" height="480"/>
+ </tileset>
+ <tileset firstgid="930" name="SAND_Swom" tilewidth="32" tileheight="32">
+  <image source="../images/SAND_Swom.png" width="256" height="224"/>
+ </tileset>
+ <tileset firstgid="986" name="shore" tilewidth="32" tileheight="32">
+  <image source="../images/shore.png" width="800" height="640"/>
+ </tileset>
+ <tileset firstgid="1486" name="TileD" tilewidth="32" tileheight="32">
+  <image source="../images/TileD.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1742" name="cavernofsorrowb_by_nicnubill-d6qnbs4" tilewidth="32" tileheight="32">
+  <image source="../images/cavernofsorrowb_by_nicnubill-d6qnbs4.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1998" name="8n5NLws" tilewidth="32" tileheight="32">
+  <image source="../images/8n5NLws.png" width="494" height="230"/>
+ </tileset>
+ <tileset firstgid="2103" name="7" tilewidth="32" tileheight="32">
+  <image source="../images/7.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="2359" name="collision" tilewidth="32" tileheight="32">
+  <image source="../images/collision.png" width="64" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0LENgDAMBEBLMANzsVa2pkZUiY0l0BXX+v89togB8DPnfteZVeWNzK6dRzzNdlvJym6f2ZOx+sOKu9WZmW6d/+zYCAAAAABfcQH2u2Kg
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlEFqAjEUhp90DLrxAC5a5wStdVMo9ALddqOeYLyC3qA9QgXXVqG36Wru0VXpC0nkTZqYxAmFgffBT14yyXv5kzC1AHgDgA1qh1rrWI499OBEhfrpq5bKHhsJ/7c2fGOuR9EyiUbuRfr7RL3q2N6f7C+g6YX2TXyNe5pbc3P4HWDeZ9TLVTvF8oG1VsSb9GT60vtKj9keXefWFSrSzkm813daC+VdsrDmd5GyaMpg+6nJW6Ck+B4XSu+YaytUnBPz9uRdPekx6u3eUW9Z/D2D0jGv8sQuxlatA+7n6PhPfQ0AboY4FzUbBpISJr1m/5y/WJZnvLswd5la8xZ93qGmKNFXChG6Qx8mf6iG7w2UER5pDZdS16T68q29JG9MzdzEnNGleVPX5jyv2Dq564Xe4395ZBiGYRiGYRiGYRiGYbrLL7A3PjQ=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJgDAMheGCKN3FERzBq6eO0EXdwyk82kP10EsIRgzl/yCUXEJemoJeEnrPcn01O2ehb3m8h7SzRpvPavY8GQ0yZnm72zmGsDjN+4VYsq6ltuFdoW8Hf/zY498bAAAAAAAAAOjZBZt9DYs=
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="60" height="30" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztlUsKwDAIBbPtjXL/k3VVyMKI+IUyA6GlMT5jNdnPWts4Ilg1JvUl+4hedbyZufP4kOai+/biqZXPTlp7+3Y+J8nujZtvzc7qOyNGyV+271NDeo/EN3n2TeCN2bvfjlxV/CNtrVUvu1Yqc6ndtZ0109Vblf385/MDAAAAAAAAAAB6eAEE5S+9
+  </data>
+ </layer>
+</map>

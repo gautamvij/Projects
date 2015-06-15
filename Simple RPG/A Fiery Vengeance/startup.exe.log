@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "startup.py", line 39, in <module>
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "startup.py", line 72, in <module>
+  File "shifty1.pyo", line 680, in demo_pygame
+  File "knifehouse1.pyo", line 22, in main
+  File "knifehouse1.pyo", line 219, in demo_pygame
+  File "shifty1.pyo", line 649, in demo_pygame
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "startup.py", line 86, in <module>
+  File "shifty1.pyo", line 649, in demo_pygame
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "startup.py", line 72, in <module>
+  File "shifty1.pyo", line 649, in demo_pygame
+pygame.error: display Surface quit
