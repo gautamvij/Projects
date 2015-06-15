@@ -1,0 +1,18 @@
+Welcome to the project!
+
+This repository belongs to SWAT-Kats group, who are developing
+the tool called LetsTalk for the company XtremeSecurity.
+
+List of team members:
+
+Alarcón Prada, David.
+Grohmann, Johannes.
+Gupta, Akanksha.
+Papadopoulos, Sokratis.
+Raghav, Rohit.
+Singh Chahal, Jibraan.
+Vij, Gautam.
+Jyoti.
+Gurkan, Inanc.
+
+In each folder you can find a brief description of its contents in the README.md file.
